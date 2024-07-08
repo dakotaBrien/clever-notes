@@ -1,0 +1,1 @@
+{"Background": "default", "Font": "default", "Text Color": "default", "Misspelled Color": "default", "Opacity": "default", "SpellCheck": "On", "EasyFormat": "On"}

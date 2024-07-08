@@ -1,0 +1,95 @@
+CleverNotes How-To:
+
+
+SpellCheck:
+
+SpellCheck can be turned On or Off by going to Preferences > Advanced Settings.
+
+To ignore a misspelled word: Highlight the word, then right-click and select the "Ignore" option.
+
+Because CleverNotes saves files as regular ".txt" files, there's no way to keep track of ignored words over multiple sessions. Every time a file is opened, all misspelled words will be flagged regardless of whether or not they were ignored in a previous session. To prevent this from happening, try adding the word to CleverNotes' WordList.
+
+To add a misspelled word to CleverNotes' WordList: Highlight the word, then right-click and select the "Add to WordList" option.
+
+
+EasyFormat:
+
+CleverNotes' EasyFormat is a quick and easy way to format your notes using shorthand.
+In order to use EasyFormat, simply add the following characters to the beginning of whichever line you wish to format:
+
+"-your text" will result in:
+
+      -  your text
+
+"--your text" will result in:
+
+          -  your text
+
+"---your text" will result in:
+
+                -  your text
+
+CleverNotes will automatically format your text when you press the Enter key.
+
+EasyFormat also works with numbers:
+
+".your text" will result in:
+
+1.  your text
+
+"-.your text" will result in:
+
+      1.  your text
+
+"--.your text" will result in:
+
+          1.  your text
+
+Numbers will continue to increase in value as long as the lines between them are indented past their horizontal position. For example:
+
+      1.  Line One
+
+          1.  Sub-Line One
+
+      2.  Line Two
+
+          2.  Sub-Line Two
+
+Break Line
+
+      1.  New Line One
+
+EasyFormat can be turned On or Off by going to Preferences > Advanced Settings.
+
+
+CleverCheck:
+
+CleverNotes' CleverCheck checks your notes for inaccurate statements. Click the lightbulb in the toolbar to run the check and open up the CleverCheck report box.
+
+
+Text Customization:
+
+Both the font and primary text color can be set by their options in the Preferences menu.
+
+Misspelled text color can be set by going to Preferences > Advanced Settings.
+
+
+Opacity:
+
+The opacity of the CleverNotes window can be changed by going to Preferences > Advanced Settings and adjusting the Opacity Slider.
+
+
+Summarization Tool:
+
+CleverNotes' summarization tool can be used to summarize any selected block of text. To use the summarization tool, select some text and then go to Edit > Summarize... or simply click on the three dots button on the Toolbar.
+
+
+Sending an Issue Report:
+
+To report an issue with CleverNotes, please go to Help > Report Issue... and fill out the Report Issue form.
+
+In the "Your contact email:" box, please enter the email at which you wish us to respond to your report.
+
+In the "Describe your issue:" box, please enter as many details about your issue as possible.
+
+Once you're done, click the "Send Report" button. A message should appear on the status bar to let you know that your report was sent.
